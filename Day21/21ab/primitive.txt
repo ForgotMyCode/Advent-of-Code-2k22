@@ -1,0 +1,5 @@
+vcpc: 5
+zfnn: jmfq - vcpc
+tlwv: 20
+jmfq: 16
+root: tlwv + zfnn
